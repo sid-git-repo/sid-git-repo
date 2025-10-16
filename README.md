@@ -1,70 +1,80 @@
-# 👋 Hi, I'm Siddharth!
+🧠 Siddharth Singh | DevOps & Cloud Engineer
 
-🎉 Welcome to my GitHub! I'm a platform engineer, cloud enthusiast, and most importantly — a proud father to little Siya ❤️
+🚀 Automating the world, one playbook at a time.
+Passionate about building scalable, automated, and resilient systems using AWS, Terraform, Docker, and Python.
+Always learning. Always improving. Always automating.
 
----
+⚙️ About Me
 
-## 🌟 What I'm Working On
+👋 Hi, I’m Siddharth — a Platform Engineer focused on Infrastructure Automation, DevOps, and Cloud-native solutions.
 
-🧒 **Siya's Memory Lane**  
-A photo gallery website dedicated to my baby girl, built using:
-- 📦 Spring Boot (Java)
-- 📷 Thymeleaf templates
-- 🐳 Dockerized deployment
-- ☁️ Hosted on AWS ECS with Route 53 + ALB
-- 🔄 CI/CD with Jenkins
+💡 My mantra: “Automate everything, from deployment to disaster recovery.”
 
-🌐 Also exploring a static Node.js version for comparison.
+🌍 Currently working on:
 
----
+Designing multi-region AWS infrastructures (ECS, Lambda, Route 53 failover)
 
-## 💻 Tech I Love Working With
+Building Ansible + Python automation frameworks
 
-- ☁️ **AWS** – EC2, ECS, Lambda, Route 53
-- 🔧 **Terraform** – VPCs, failover, and automation
-- 🐍 **Python** – Building and learning with small projects
-- 🧪 **CI/CD** – Jenkins, pipelines, Docker
-- 🧠 Always curious about **DevOps best practices**
+Managing Terraform IaC for cloud provisioning and blue/green deployments
 
----
+Dockerizing and modernizing applications for CI/CD pipelines
 
-## 📚 Learning Journey
+🧰 Tech Toolbox
+Category	Tools & Skills
+☁️ Cloud	AWS (EC2, ECS, Lambda, S3, Route 53, ALB)
+🏗️ Infrastructure as Code	Terraform, CloudFormation
+🧩 Automation	Ansible, Python
+🐳 Containerization	Docker, ECS Fargate
+🔄 CI/CD	Jenkins, GitHub Actions, CodeDeploy
+📊 Monitoring	CloudWatch, Datadog
+🧠 Languages	Python, Java, Bash
+🧪 Testing	PyTest, JUnit, Molecule
+🛠️ Current Projects
 
-🎯 Currently mastering:
-- Python (hands-on with a structured roadmap)
-- Java Spring Boot (OOP, image upload, tests)
-- Dockerizing apps for deployment
-- Writing great tests with 80%+ code coverage
+🔹 Eminence Framework (Ansible + Python)
 
-🚧 I believe in learning by **building real projects** and documenting every step.
+My personal automation framework that simplifies migration and provisioning for existing apps using Ansible and Python integrations.
 
----
+🔹 Siya’s Memory Lane
 
-## 📫 Reach Me
+A personal project for my daughter — built with Spring Boot + Thymeleaf, fully containerized and deployed via AWS ECS Fargate.
 
-💬 I'm always open to collaboration, tech talk, or questions!
+🔹 Cloudwaze
 
-- 💌 Planning to send the first love letter to Siya on her 13th birthday (via Gmail 😊)
-- 💑 Married to Ushasi, celebrating life & anniversaries with code and ❤️
+A health-check Lambda + Route 53 failover automation tool — ensuring high availability across AWS regions.
 
----
+🧩 DevOps Mindset
 
-> ✨ *"Code not just to build apps, but to build memories."*
+“If you can repeat it, you can automate it.”
 
-Thanks for visiting my GitHub!  
-Let’s connect and create something amazing.
+✔️ Automate infrastructure with Terraform + Ansible
+✔️ Build pipelines that test, deploy, and rollback gracefully
+✔️ Monitor, alert, and recover — automatically
+✔️ Focus on consistency, reliability, and zero manual errors
 
-<!--
-**sid-git-repo/sid-git-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning & Growth
 
-Here are some ideas to get you started:
+Currently deep-diving into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Advanced Terraform modules and workspaces
+
+AWS CDK and Lambda functions for health checks
+
+Writing reusable Ansible roles
+
+Python automation for CI/CD
+
+Building DevOps-ready frameworks from scratch
+
+📫 Let’s Connect
+
+💬 Open for collaboration, DevOps discussions, or automation ideas!
+📧 Reach out anytime — I love connecting with like-minded engineers.
+
+❤️ Beyond Tech:
+Proud father to baby Siya, husband to Ushasi, and a believer that tech can be human too.
+
+“Automate systems, not emotions.” 💡
+
+✨ Built with love, automation, and infinite AWS retries.
