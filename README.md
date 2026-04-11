@@ -1,80 +1,121 @@
-🧠 Siddharth Singh | DevOps & Cloud Engineer
+🧠 Siddharth Singh | DevOps • Cloud • AI Systems Engineer
 
-🚀 Automating the world, one playbook at a time.
-Passionate about building scalable, automated, and resilient systems using AWS, Terraform, Docker, and Python.
-Always learning. Always improving. Always automating.
+🚀 Automating infrastructure today. Building intelligent systems for tomorrow.
+
+Passionate about designing scalable cloud platforms, automation frameworks, and now evolving into AI-powered, agentic systems that think, adapt, and assist.
 
 ⚙️ About Me
 
-👋 Hi, I’m Siddharth — a Platform Engineer focused on Infrastructure Automation, DevOps, and Cloud-native solutions.
+👋 Hi, I’m Siddharth — a Platform Engineer specializing in Infrastructure Automation, DevOps, and Cloud-native architectures, now expanding into AI engineering and agent-based systems.
 
-💡 My mantra: “Automate everything, from deployment to disaster recovery.”
+💡 My evolving mantra:
+“Automate everything. Then make it intelligent.”
 
-🌍 Currently working on:
+🌍 What I’m Building Right Now
 
-Designing multi-region AWS infrastructures (ECS, Lambda, Route 53 failover)
+🔹 AI Lab (Personal R&D Playground)
+Designing a modular AI ecosystem to:
 
-Building Ansible + Python automation frameworks
+Track and optimize token usage (cost-aware AI systems)
+Build CLI + VS Code integrations for AI workflows
+Implement Graph-based memory systems to reduce token exhaustion
+Create reusable prompt frameworks and automation pipelines
 
-Managing Terraform IaC for cloud provisioning and blue/green deployments
+🔹 SiyaGPT (Personal AI Assistant)
+An offline-first intelligent assistant designed to:
 
-Dockerizing and modernizing applications for CI/CD pipelines
+Learn from my personal knowledge (code, notes, infra docs)
+Act as a DevOps + life assistant
+Maintain long-term memory using structured data + embeddings
+Stay personal — built for my daughter Siya ❤️
 
-🧰 Tech Toolbox
-Category	Tools & Skills
-☁️ Cloud	AWS (EC2, ECS, Lambda, S3, Route 53, ALB)
-🏗️ Infrastructure as Code	Terraform, CloudFormation
-🧩 Automation	Ansible, Python
-🐳 Containerization	Docker, ECS Fargate
-🔄 CI/CD	Jenkins, GitHub Actions, CodeDeploy
-📊 Monitoring	CloudWatch, Datadog
-🧠 Languages	Python, Java, Bash
-🧪 Testing	PyTest, JUnit, Molecule
-🛠️ Current Projects
+🔹 Cloudwaze (Resilient Cloud Automation)
+
+Lambda-driven health checks
+Route 53 failover automation
+Multi-region AWS resilience strategy
 
 🔹 Eminence Framework (Ansible + Python)
 
-My personal automation framework that simplifies migration and provisioning for existing apps using Ansible and Python integrations.
+Automation framework for migration & provisioning
+Focused on reusability, modularity, and scale
 
 🔹 Siya’s Memory Lane
 
-A personal project for my daughter — built with Spring Boot + Thymeleaf, fully containerized and deployed via AWS ECS Fargate.
+Spring Boot + Thymeleaf app
+Fully containerized (Docker)
+Deployed on ECS Fargate with CI/CD
+🧰 Tech Toolbox
 
-🔹 Cloudwaze
+☁️ Cloud
+AWS (ECS, Lambda, S3, Route 53, ALB, EC2)
 
-A health-check Lambda + Route 53 failover automation tool — ensuring high availability across AWS regions.
+🏗️ Infrastructure as Code
+Terraform, CloudFormation
 
-🧩 DevOps Mindset
+🧩 Automation
+Ansible, Python
 
-“If you can repeat it, you can automate it.”
+🐳 Containerization
+Docker, ECS Fargate
 
-✔️ Automate infrastructure with Terraform + Ansible
-✔️ Build pipelines that test, deploy, and rollback gracefully
-✔️ Monitor, alert, and recover — automatically
-✔️ Focus on consistency, reliability, and zero manual errors
+🔄 CI/CD
+Jenkins, GitHub Actions, CodeDeploy
+
+📊 Monitoring
+CloudWatch, Datadog
+
+🧠 Programming
+Python, Java, Bash
+
+🧪 Testing
+PyTest, JUnit, Molecule
+
+🤖 AI & Emerging Stack (New)
+
+LLM Integration (CLI + API-based workflows)
+Prompt Engineering & Optimization
+Token tracking & cost optimization
+Graph-based memory systems (GRAPH.md approach)
+Local LLMs (GPT4All, offline assistants)
+🧩 DevOps → AI Mindset
+
+“If you can automate it, you can optimize it.
+If you can optimize it, you can make it intelligent.”
+
+✔️ Infrastructure as code → Infrastructure with intelligence
+✔️ Pipelines → Self-improving pipelines
+✔️ Monitoring → Predictive & AI-driven observability
+✔️ Scripts → Agents
 
 🌱 Learning & Growth
 
 Currently deep-diving into:
 
-Advanced Terraform modules and workspaces
-
-AWS CDK and Lambda functions for health checks
-
-Writing reusable Ansible roles
-
-Python automation for CI/CD
-
-Building DevOps-ready frameworks from scratch
-
+Agentic AI architectures
+Memory systems (vector DB + graph structures)
+AI-powered DevOps assistants
+Advanced Terraform modules & multi-region design
+Building AI-integrated developer tools (CLI + VS Code)
 📫 Let’s Connect
 
-💬 Open for collaboration, DevOps discussions, or automation ideas!
-📧 Reach out anytime — I love connecting with like-minded engineers.
+💬 Open to discussions on:
 
-❤️ Beyond Tech:
-Proud father to baby Siya, husband to Ushasi, and a believer that tech can be human too.
+DevOps at scale
+AI + Infra convergence
+Building personal AI systems (like SiyaGPT)
+❤️ Beyond Tech
+
+Proud father to Siya, husband to Ushasi.
+Building systems for the future — and memories that last forever.
 
 “Automate systems, not emotions.” 💡
 
-✨ Built with love, automation, and infinite AWS retries.
+✨ Signature
+
+Built with:
+
+☁️ AWS resilience
+⚙️ Automation mindset
+🤖 AI curiosity
+❤️ Purpose
