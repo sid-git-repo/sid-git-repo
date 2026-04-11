@@ -1,121 +1,185 @@
-🧠 Siddharth Singh | DevOps • Cloud • AI Systems Engineer
+# 🧠 Siddharth Singh | DevOps • Cloud • AI Systems Engineer
 
 🚀 Automating infrastructure today. Building intelligent systems for tomorrow.
 
-Passionate about designing scalable cloud platforms, automation frameworks, and now evolving into AI-powered, agentic systems that think, adapt, and assist.
+Passionate about designing **scalable cloud platforms**, **automation frameworks**, and evolving into **AI-powered, agentic systems**.
 
-⚙️ About Me
+---
 
-👋 Hi, I’m Siddharth — a Platform Engineer specializing in Infrastructure Automation, DevOps, and Cloud-native architectures, now expanding into AI engineering and agent-based systems.
+## ⚙️ About Me
 
-💡 My evolving mantra:
-“Automate everything. Then make it intelligent.”
+👋 Hi, I’m Siddharth — a Platform Engineer focused on:
 
-🌍 What I’m Building Right Now
+- Infrastructure Automation  
+- DevOps & Cloud-native systems  
+- AI-driven tooling and agent-based architectures  
 
-🔹 AI Lab (Personal R&D Playground)
-Designing a modular AI ecosystem to:
+💡 **Mantra:**  
+> Automate everything. Then make it intelligent.
 
-Track and optimize token usage (cost-aware AI systems)
-Build CLI + VS Code integrations for AI workflows
-Implement Graph-based memory systems to reduce token exhaustion
-Create reusable prompt frameworks and automation pipelines
+---
 
-🔹 SiyaGPT (Personal AI Assistant)
-An offline-first intelligent assistant designed to:
+## 🌍 Current Focus
 
-Learn from my personal knowledge (code, notes, infra docs)
-Act as a DevOps + life assistant
-Maintain long-term memory using structured data + embeddings
-Stay personal — built for my daughter Siya ❤️
+### 🔹 AI Lab (Personal R&D Playground)
 
-🔹 Cloudwaze (Resilient Cloud Automation)
+Building a modular AI ecosystem:
 
-Lambda-driven health checks
-Route 53 failover automation
-Multi-region AWS resilience strategy
+- Token usage tracking & cost optimization  
+- CLI + VS Code AI integrations  
+- Graph-based memory system (`GRAPH.md`)  
+- Prompt engineering frameworks  
+- AI workflow automation  
 
-🔹 Eminence Framework (Ansible + Python)
+---
 
-Automation framework for migration & provisioning
-Focused on reusability, modularity, and scale
+### 🔹 SiyaGPT (Personal AI Assistant)
 
-🔹 Siya’s Memory Lane
+Offline-first assistant designed to:
 
-Spring Boot + Thymeleaf app
-Fully containerized (Docker)
-Deployed on ECS Fargate with CI/CD
-🧰 Tech Toolbox
+- Learn from personal knowledge (code, docs, notes)  
+- Act as DevOps + life assistant  
+- Maintain long-term memory  
+- Stay personal ❤️  
 
-☁️ Cloud
-AWS (ECS, Lambda, S3, Route 53, ALB, EC2)
+---
 
-🏗️ Infrastructure as Code
-Terraform, CloudFormation
+### 🔹 Cloudwaze
 
-🧩 Automation
-Ansible, Python
+- AWS Lambda health checks  
+- Route 53 failover automation  
+- Multi-region resilience system  
 
-🐳 Containerization
-Docker, ECS Fargate
+---
 
-🔄 CI/CD
-Jenkins, GitHub Actions, CodeDeploy
+### 🔹 Eminence Framework
 
-📊 Monitoring
-CloudWatch, Datadog
+Automation framework using:
 
-🧠 Programming
-Python, Java, Bash
+- Ansible  
+- Python  
 
-🧪 Testing
-PyTest, JUnit, Molecule
+Focus:
+- Migration automation  
+- Provisioning systems  
+- Reusable modules  
 
-🤖 AI & Emerging Stack (New)
+---
 
-LLM Integration (CLI + API-based workflows)
-Prompt Engineering & Optimization
-Token tracking & cost optimization
-Graph-based memory systems (GRAPH.md approach)
-Local LLMs (GPT4All, offline assistants)
-🧩 DevOps → AI Mindset
+### 🔹 Siya’s Memory Lane
 
-“If you can automate it, you can optimize it.
-If you can optimize it, you can make it intelligent.”
+- Spring Boot + Thymeleaf  
+- Dockerized application  
+- Deployed on ECS Fargate  
+- CI/CD enabled  
 
-✔️ Infrastructure as code → Infrastructure with intelligence
-✔️ Pipelines → Self-improving pipelines
-✔️ Monitoring → Predictive & AI-driven observability
-✔️ Scripts → Agents
+---
 
-🌱 Learning & Growth
+## 🧰 Tech Toolbox
 
-Currently deep-diving into:
+### ☁️ Cloud
+- AWS (EC2, ECS, Lambda, S3, Route 53, ALB)
 
-Agentic AI architectures
-Memory systems (vector DB + graph structures)
-AI-powered DevOps assistants
-Advanced Terraform modules & multi-region design
-Building AI-integrated developer tools (CLI + VS Code)
-📫 Let’s Connect
+### 🏗️ Infrastructure as Code
+- Terraform  
+- CloudFormation  
+
+### 🧩 Automation
+- Ansible  
+- Python  
+
+### 🐳 Containerization
+- Docker  
+- ECS Fargate  
+
+### 🔄 CI/CD
+- Jenkins  
+- GitHub Actions  
+- CodeDeploy  
+
+### 📊 Monitoring
+- CloudWatch  
+- Datadog  
+
+### 🧠 Programming
+- Python  
+- Java  
+- Bash  
+
+### 🧪 Testing
+- PyTest  
+- JUnit  
+- Molecule  
+
+### 🤖 AI & Emerging Stack
+- LLM integrations (CLI + APIs)  
+- Prompt engineering  
+- Token optimization  
+- Graph-based memory systems  
+- Local LLMs (GPT4All)  
+
+---
+
+## 🧩 DevOps → AI Mindset
+
+> If you can automate it, you can optimize it.  
+> If you can optimize it, you can make it intelligent.
+
+- Infrastructure → Intelligent infrastructure  
+- Pipelines → Self-improving pipelines  
+- Monitoring → Predictive systems  
+- Scripts → Agents  
+
+---
+
+## 🌱 Learning & Growth
+
+Currently exploring:
+
+- Agentic AI architectures  
+- Vector DB + memory systems  
+- AI-powered DevOps assistants  
+- Advanced Terraform modules  
+- AI-integrated developer tools  
+
+---
+
+## 📫 Let’s Connect
 
 💬 Open to discussions on:
 
-DevOps at scale
-AI + Infra convergence
-Building personal AI systems (like SiyaGPT)
-❤️ Beyond Tech
+- DevOps at scale  
+- AI + Infrastructure  
+- Personal AI systems  
 
-Proud father to Siya, husband to Ushasi.
-Building systems for the future — and memories that last forever.
+---
 
-“Automate systems, not emotions.” 💡
+## ❤️ Beyond Tech
 
-✨ Signature
+- Proud father to Siya  
+- Husband to Ushasi  
+- Builder of systems and memories  
+
+> Automate systems, not emotions.
+
+---
+
+## ✨ Signature
 
 Built with:
 
-☁️ AWS resilience
-⚙️ Automation mindset
-🤖 AI curiosity
-❤️ Purpose
+- ☁️ AWS  
+- ⚙️ Automation  
+- 🤖 AI curiosity  
+- ❤️ Purpose  
+
+---
+
+## 📌 Future Vision
+
+- Build **SiyaGPT ecosystem**
+- Create **AI-native DevOps workflows**
+- Design **token-efficient intelligent systems**
+- Merge **human memory + machine intelligence**
+
+---
