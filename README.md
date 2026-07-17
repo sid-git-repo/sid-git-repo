@@ -44,7 +44,7 @@ Platform Engineer focused on **infrastructure automation**, **cloud-native syste
 
 | Project | What it is |
 |---|---|
-| 🌾 **[Ashvani Agro](https://github.com/sid-git-repo/Ashvani-Agro)** | Live business website for a local agri-input dealer — static HTML/CSS/JS, bilingual English/Hindi, deployed via Docker + nginx behind a Cloudflare Tunnel with an auto-discovering photo slider. |
+| 🌾 **[Ashvani Agro](https://github.com/sid-git-repo/Ashvani-Agro)** ([live site](https://ashvaniagro.sidlab.in)) | Live business website for a local agri-input dealer — static HTML/CSS/JS, bilingual English/Hindi, deployed via Docker + nginx behind a Cloudflare Tunnel with an auto-discovering photo slider. |
 | ☸️ **AWX-on-Kubernetes Lab** | Full GitOps homelab: Patroni/etcd/HAProxy HA PostgreSQL cluster (Docker Compose) + minikube + AWX Operator, deployed and self-healed via ArgoCD. |
 | 🔧 **AWX Config-as-Code** | Reconciles a running AWX instance's orgs, teams, credentials, and job templates entirely through the `awx.awx` Ansible collection — deliberately decoupled from AWX's own deployment lifecycle. |
 | 🧩 **Universal Linux/Windows Troubleshooting Framework** | Modular Ansible roles and a dynamic playbook executor for running diagnostics and fixes across mixed Linux/Windows fleets, synced into AWX as a managed Project. |
