@@ -1,185 +1,127 @@
-# 🧠 Siddharth Singh | DevOps • Cloud • AI Systems Engineer
+<div align="center">
 
-🚀 Automating infrastructure today. Building intelligent systems for tomorrow.
+# 👋 Hi, I'm Siddharth Singh
 
-Passionate about designing **scalable cloud platforms**, **automation frameworks**, and evolving into **AI-powered, agentic systems**.
+### DevOps • Cloud • AI Systems Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automating+infrastructure+today.;Building+intelligent+systems+for+tomorrow.;Automate+everything.+Then+make+it+intelligent.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sid-git-repo&color=2E9EF7&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
 ## ⚙️ About Me
 
-👋 Hi, I’m Siddharth — a Platform Engineer focused on:
+Platform Engineer focused on **infrastructure automation**, **cloud-native systems**, and increasingly, **AI-driven tooling and agentic architectures**.
 
-- Infrastructure Automation  
-- DevOps & Cloud-native systems  
-- AI-driven tooling and agent-based architectures  
-
-💡 **Mantra:**  
-> Automate everything. Then make it intelligent.
-
----
-
-## 🌍 Current Focus
-
-### 🔹 AI Lab (Personal R&D Playground)
-
-Building a modular AI ecosystem:
-
-- Token usage tracking & cost optimization  
-- CLI + VS Code AI integrations  
-- Graph-based memory system (`GRAPH.md`)  
-- Prompt engineering frameworks  
-- AI workflow automation  
-
----
-
-### 🔹 SiyaGPT (Personal AI Assistant)
-
-Offline-first assistant designed to:
-
-- Learn from personal knowledge (code, docs, notes)  
-- Act as DevOps + life assistant  
-- Maintain long-term memory  
-- Stay personal ❤️  
-
----
-
-### 🔹 Cloudwaze
-
-- AWS Lambda health checks  
-- Route 53 failover automation  
-- Multi-region resilience system  
-
----
-
-### 🔹 Eminence Framework
-
-Automation framework using:
-
-- Ansible  
-- Python  
-
-Focus:
-- Migration automation  
-- Provisioning systems  
-- Reusable modules  
-
----
-
-### 🔹 Siya’s Memory Lane
-
-- Spring Boot + Thymeleaf  
-- Dockerized application  
-- Deployed on ECS Fargate  
-- CI/CD enabled  
+> 💡 Automate everything. Then make it intelligent.
 
 ---
 
 ## 🧰 Tech Toolbox
 
-### ☁️ Cloud
-- AWS (EC2, ECS, Lambda, S3, Route 53, ALB)
+<div align="center">
 
-### 🏗️ Infrastructure as Code
-- Terraform  
-- CloudFormation  
+![](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,python,java,bash,git,github,githubactions,jenkins,linux,postgres,powershell,vscode)
 
-### 🧩 Automation
-- Ansible  
-- Python  
+</div>
 
-### 🐳 Containerization
-- Docker  
-- ECS Fargate  
+| Category | Stack |
+|---|---|
+| ☁️ Cloud | AWS (EC2, ECS, Lambda, S3, Route 53, ALB) |
+| 🏗️ Infrastructure as Code | Terraform, CloudFormation, Ansible |
+| 🐳 Containers & Orchestration | Docker, Kubernetes (minikube), ECS Fargate |
+| 🔄 CI/CD & GitOps | Jenkins, GitHub Actions, CodeDeploy, ArgoCD |
+| 📊 Monitoring | CloudWatch, Datadog, Grafana |
+| 🧠 Programming | Python, Java, Bash, PowerShell |
+| 🧪 Testing | PyTest, JUnit, Molecule |
 
-### 🔄 CI/CD
-- Jenkins  
-- GitHub Actions  
-- CodeDeploy  
+---
 
-### 📊 Monitoring
-- CloudWatch  
-- Datadog  
+## 🌟 Featured Projects
 
-### 🧠 Programming
-- Python  
-- Java  
-- Bash  
+| Project | What it is |
+|---|---|
+| 🌾 **[Ashvani Agro](https://github.com/sid-git-repo/Ashvani-Agro)** | Live business website for a local agri-input dealer — static HTML/CSS/JS, bilingual English/Hindi, deployed via Docker + nginx behind a Cloudflare Tunnel with an auto-discovering photo slider. |
+| ☸️ **AWX-on-Kubernetes Lab** | Full GitOps homelab: Patroni/etcd/HAProxy HA PostgreSQL cluster (Docker Compose) + minikube + AWX Operator, deployed and self-healed via ArgoCD. |
+| 🔧 **AWX Config-as-Code** | Reconciles a running AWX instance's orgs, teams, credentials, and job templates entirely through the `awx.awx` Ansible collection — deliberately decoupled from AWX's own deployment lifecycle. |
+| 🧩 **Universal Linux/Windows Troubleshooting Framework** | Modular Ansible roles and a dynamic playbook executor for running diagnostics and fixes across mixed Linux/Windows fleets, synced into AWX as a managed Project. |
+| 🤖 **SiyaGPT** | Personal, offline-first AI assistant — learns from personal knowledge (code, docs, notes), acts as a DevOps + life assistant, with long-term memory. |
+| ☁️ **Cloudwaze** | AWS Lambda health checks + Route 53 failover automation for multi-region resilience. |
+| ⚙️ **Eminence Framework** | Ansible + Python automation framework for migration, provisioning, and reusable infra modules. |
+| 🍼 **Siya's Memory Lane** | Spring Boot + Thymeleaf app, Dockerized and deployed on ECS Fargate with CI/CD. |
 
-### 🧪 Testing
-- PyTest  
-- JUnit  
-- Molecule  
+---
 
-### 🤖 AI & Emerging Stack
-- LLM integrations (CLI + APIs)  
-- Prompt engineering  
-- Token optimization  
-- Graph-based memory systems  
-- Local LLMs (GPT4All)  
+## 🧠 AI Learning Journey
+
+Hands-on, project-driven — currently working through:
+
+- **LLM APIs** — Claude (Anthropic) integration via both the official SDK and raw HTTP, multi-turn conversation state, system prompts, temperature/token tuning
+- **RAG (Retrieval-Augmented Generation)** — chunking documents, local embeddings with `sentence-transformers`, vector storage and similarity search with `ChromaDB`, grounding LLM answers in retrieved context instead of parametric knowledge
+- **AI app UIs** — building interactive chat interfaces with Streamlit, wired to configurable system prompts/temperature/model selection
+- **Agentic architectures** — exploring tool-use patterns, memory systems, and graph-based context for longer-running AI workflows
 
 ---
 
 ## 🧩 DevOps → AI Mindset
 
-> If you can automate it, you can optimize it.  
+> If you can automate it, you can optimize it.
 > If you can optimize it, you can make it intelligent.
 
-- Infrastructure → Intelligent infrastructure  
-- Pipelines → Self-improving pipelines  
-- Monitoring → Predictive systems  
-- Scripts → Agents  
+- Infrastructure → Intelligent infrastructure
+- Pipelines → Self-improving pipelines
+- Monitoring → Predictive systems
+- Scripts → Agents
 
 ---
 
-## 🌱 Learning & Growth
+## 🌱 Currently Exploring
 
-Currently exploring:
-
-- Agentic AI architectures  
-- Vector DB + memory systems  
-- AI-powered DevOps assistants  
-- Advanced Terraform modules  
-- AI-integrated developer tools  
+- Agentic AI architectures & tool-use patterns
+- Vector databases and long-term memory systems for LLMs
+- AI-powered DevOps assistants
+- Advanced Terraform modules
+- AI-integrated developer tooling
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats
 
-💬 Open to discussions on:
+<div align="center">
 
-- DevOps at scale  
-- AI + Infrastructure  
-- Personal AI systems  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sid-git-repo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-git-repo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sid-git-repo&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## ❤️ Beyond Tech
 
-- Proud father to Siya  
-- Husband to Ushasi  
-- Builder of systems and memories  
+- Proud father to Siya
+- Husband to Ushasi
+- Builder of systems and memories
 
 > Automate systems, not emotions.
 
 ---
 
-## ✨ Signature
-
-Built with:
-
-- ☁️ AWS  
-- ⚙️ Automation  
-- 🤖 AI curiosity  
-- ❤️ Purpose  
-
----
-
 ## 📌 Future Vision
 
-- Build **SiyaGPT ecosystem**
+- Build the **SiyaGPT ecosystem**
 - Create **AI-native DevOps workflows**
 - Design **token-efficient intelligent systems**
 - Merge **human memory + machine intelligence**
 
 ---
+
+<div align="center">
+
+Built with ☁️ AWS · ⚙️ Automation · 🤖 AI curiosity · ❤️ Purpose
+
+</div>
